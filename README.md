@@ -1,1 +1,2 @@
 # Cleaning-Analyzing-Data-with-Excel
+#Cleaned and sorted data from CSV into Excel. Data cleaning included the removal of blank and duplicate values, as well as the correction of formatting errors. Some columns were condensed and both reorganized and reformatted for efficiency. Data was organized tabularly for ease of analysis, with basic formulae used for initial insights. Further analysis was accomplished via the creation and sorting of pivot tables with corresponding pivot charts, for visualization.
